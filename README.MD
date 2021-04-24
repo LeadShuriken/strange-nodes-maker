@@ -1,6 +1,6 @@
 # STRANGE-NODES-MAKER
 
-![alt text](https://github.com/LeadShuriken/STRANGE-NODES-MAKER/blob/main/Screenshot%2021-04-23%at%23.10.07.png?raw=true)
+![alt text](https://github.com/LeadShuriken/strange-nodes-maker/blob/main/Screenshot%202021-04-23%20at%2023.10.07.png?raw=true)
 
 ## Description
 
