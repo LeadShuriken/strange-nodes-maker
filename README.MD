@@ -12,6 +12,7 @@ STRANGE-NODES-MAKER features:
 
   * Any size you want.
   * Different connection nodes.
+  * Connect nodes.
   * Use your imagination.
 
 ### Todos
